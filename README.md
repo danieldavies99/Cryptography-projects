@@ -4,6 +4,7 @@ A collection of cryptography functions written in C++
 This is a collection of cryptography functions I made as solutions for challenges on edabit.com.
 
 the challenges, with explanations of the functions can be found at the following links(from least complex to most complex)
+
  1 - Atbash Cipher, https://edabit.com/challenge/977xgdi57bp23ibz5
  
  2 - Caesesar's Cipher, https://edabit.com/challenge/GmPfqu2jmLDBD2NYS
